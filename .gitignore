@@ -1,0 +1,6 @@
+.env
+auto.cnf
+ibdata*
+ib_logfile*
+mysql/
+performance_schema
